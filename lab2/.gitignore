@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+household_power_consumption.txt
+vhi_data/
+*.csv
