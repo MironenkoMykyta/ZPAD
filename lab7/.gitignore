@@ -1,0 +1,9 @@
+build/
+*.o
+Lab6_executable
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+data/*.caffemodel
+.DS_Store
